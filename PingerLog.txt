@@ -1,0 +1,30 @@
+
+~~~~~~~~~~ Start Ping to:10.53.5.253 ~~~~~~~~~~
+
+['2017-12-14 14:13:06.04', ' [ Start ] ', 'State: Received', ' Duration: 0:00:00', ' Max Duration: 0:00:00', 'Elapsed time: 0:00:00', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:13:09.75', ' [ Period ] ', 'State: Received', ' Duration: 0:00:04', ' Max Duration: 0:00:04', 'Elapsed time: 0:00:04', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:13:13.11', ' [ Period ] ', 'State: Received', ' Duration: 0:00:07', ' Max Duration: 0:00:07', 'Elapsed time: 0:00:07', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:13:16.67', ' [ Period ] ', 'State: Received', ' Duration: 0:00:11', ' Max Duration: 0:00:11', 'Elapsed time: 0:00:11', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:13:16.67', [' End '], 'State: Received', 'Elapsed time: 0:00:11', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+
+~~~~~~~~~~ Start Ping to:10.53.5.253 ~~~~~~~~~~
+
+['2017-12-14 14:13:59.80', ' [ Start ] ', 'State: Received', ' Duration: 0:00:00', ' Max Duration: 0:00:00', 'Elapsed time: 0:00:00', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:14:03.15', ' [ Period ] ', 'State: Received', ' Duration: 0:00:04', ' Max Duration: 0:00:04', 'Elapsed time: 0:00:04', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:14:06.66', ' [ Period ] ', 'State: Received', ' Duration: 0:00:07', ' Max Duration: 0:00:07', 'Elapsed time: 0:00:07', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:14:10.43', ' [ Period ] ', 'State: Received', ' Duration: 0:00:11', ' Max Duration: 0:00:11', 'Elapsed time: 0:00:11', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']
+['2017-12-14 14:14:17.40', ' [ Change ] ', 'State: Lost', ' Duration: 0:00:06', ' Max Duration: 0:00:06', 'Elapsed time: 0:00:18', 'Recv ratio: 62.0%', 'Lost ratio: 38.0%']
+['2017-12-14 14:14:23.82', ' [ Period ] ', 'State: Lost', ' Duration: 0:00:13', ' Max Duration: 0:00:13', 'Elapsed time: 0:00:24', 'Recv ratio: 46.0%', 'Lost ratio: 54.0%']
+['2017-12-14 14:14:29.84', ' [ Period ] ', 'State: Lost', ' Duration: 0:00:19', ' Max Duration: 0:00:19', 'Elapsed time: 0:00:30', 'Recv ratio: 37.0%', 'Lost ratio: 63.0%']
+['2017-12-14 14:14:36.83', ' [ Period ] ', 'State: Lost', ' Duration: 0:00:26', ' Max Duration: 0:00:26', 'Elapsed time: 0:00:37', 'Recv ratio: 30.2%', 'Lost ratio: 69.8%']
+['2017-12-14 14:14:39.99', ' [ Change ] ', 'State: Received', ' Duration: 0:00:03', ' Max Duration: 0:00:11', 'Elapsed time: 0:00:40', 'Recv ratio: 35.6%', 'Lost ratio: 64.4%']
+['2017-12-14 14:14:43.31', ' [ Period ] ', 'State: Received', ' Duration: 0:00:06', ' Max Duration: 0:00:11', 'Elapsed time: 0:00:44', 'Recv ratio: 40.4%', 'Lost ratio: 59.6%']
+['2017-12-14 14:14:46.68', ' [ Period ] ', 'State: Received', ' Duration: 0:00:09', ' Max Duration: 0:00:11', 'Elapsed time: 0:00:47', 'Recv ratio: 44.6%', 'Lost ratio: 55.4%']
+['2017-12-14 14:14:49.78', ' [ Period ] ', 'State: Received', ' Duration: 0:00:12', ' Max Duration: 0:00:12', 'Elapsed time: 0:00:50', 'Recv ratio: 48.0%', 'Lost ratio: 52.0%']
+['2017-12-14 14:14:53.83', ' [ Period ] ', 'State: Received', ' Duration: 0:00:17', ' Max Duration: 0:00:17', 'Elapsed time: 0:00:54', 'Recv ratio: 51.8%', 'Lost ratio: 48.2%']
+['2017-12-14 14:14:59.07', ' [ Period ] ', 'State: Received', ' Duration: 0:00:22', ' Max Duration: 0:00:22', 'Elapsed time: 0:01:00', 'Recv ratio: 56.0%', 'Lost ratio: 44.0%']
+['2017-12-14 14:14:59.07', [' End '], 'State: Received', 'Elapsed time: 0:01:00', 'Recv ratio: 56.0%', 'Lost ratio: 44.0%']
+
+~~~~~~~~~~ Start Ping to:10.53.5.253 ~~~~~~~~~~
+
+['2017-12-17 08:00:19.68', ' [ Start ] ', 'State: Received', ' Duration: 0:00:00', ' Max Duration: 0:00:00', 'Elapsed time: 0:00:00', 'Recv ratio: 100.0%', 'Lost ratio: 0.0%']

@@ -1,0 +1,8 @@
+
+Pinging 10.53.5.253 with 32 bytes of data:
+Reply from 10.53.5.253: bytes=32 time=2ms TTL=255
+
+Ping statistics for 10.53.5.253:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms

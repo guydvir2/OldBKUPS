@@ -1,0 +1,6 @@
+2017-06-26 08:57:23
+Hello World 
+
+This is our new text file
+and this is another line.
+Why? Becausewe can.
